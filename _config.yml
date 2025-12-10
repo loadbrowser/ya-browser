@@ -1,0 +1,5 @@
+title: "Мой сайт на Jekyll"
+description: "Короткое описание"
+baseurl: ""      # оставить пустым для user site
+url: "https://yourusername.github.io"
+theme: minima    # или другая тема, совместимая с GitHub Pages
